@@ -1,0 +1,14 @@
+{
+  "name": "Albuquerque-Santa Fe-Los Alamos",
+  "code": "ABQ",
+  "description": "This is basically all of New Mexico",
+  "population": 1000000,
+  "initialViewState": {
+    "zoom": 9,
+    "latitude": 35.454324686525304,
+    "longitude": -106.3571075724361,
+    "bearing": 0
+  },
+  "creator": "DanielD1909",
+  "version": "1.0.0"
+}

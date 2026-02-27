@@ -1,0 +1,14 @@
+{
+  "name": "San Joaquin Valley North",
+  "code": "SCK",
+  "description": "Who asked for this?",
+  "population": 2650000,
+  "initialViewState": {
+    "zoom": 12.5,
+    "latitude": 37.8006,
+    "longitude": -121.150554,
+    "bearing": 0
+  },
+  "creator": "DanielD1909",
+  "version": "1.0.0"
+}
